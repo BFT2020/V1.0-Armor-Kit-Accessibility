@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="1_BFT_ArmorKitAccessibility" />
+	<DisplayName value="BFT2020 Armor Ki Accessibility" />
+	<Description value="Adds icons to the repair kit and armor kit" />
+	<Author value="BFT2020" />
+	<Version value="1.1.0.1" />
+	<Website value="" />
+	<SkipWithAntiCheat value="false" />
+</xml>

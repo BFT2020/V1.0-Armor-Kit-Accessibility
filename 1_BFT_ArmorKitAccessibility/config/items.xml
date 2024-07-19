@@ -1,0 +1,12 @@
+<config>
+
+	<insertAfter xpath="//item[@name='resourceArmorCraftingKit']/property[@name='Tags']">
+		<property name="ItemTypeIcon" value="armor_iron"/>
+	</insertAfter>
+
+	<insertAfter xpath="//item[@name='resourceRepairKit']/property[@name='Tags']">
+		<property name="ItemTypeIcon" value="hammer"/>
+	</insertAfter>
+
+
+</config>
